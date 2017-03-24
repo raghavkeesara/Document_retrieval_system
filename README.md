@@ -7,7 +7,7 @@ This is a project done by me, as a part of my Information Retrieval course's ass
 
 
 NOTE:
-1) Wild card queries have to be only of the form "query*" "*query"
+1) Wild card queries have to be only of the form "query*" "*query", need a to write a small code for queries of the form A*B(working on it)
 2) phrase queries have to be exactly what you want in the document
 3) corpus can be dynamic in the sense that add/delete new txt file to the corpus directory and execute indexing.py again.
 
